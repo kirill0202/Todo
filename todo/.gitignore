@@ -1,0 +1,22 @@
+# Node modules
+node_modules
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env.!example
+.env
+
+# The development file
+.eslintcache
+.nyc_output
+build
+coverage
+dist
+
+# Editor files
+.DS_Store
+.idea
+.pnp
+.pnp.js
+.vscode
